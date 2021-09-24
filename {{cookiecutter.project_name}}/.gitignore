@@ -1,0 +1,9 @@
+# .gitignore file
+# ---------------
+
+.DS_Store
+.idea
+*.log
+tmp/
+
+/target
